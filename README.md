@@ -21,6 +21,6 @@ ch7
 
 <img width="1679" alt="截圖 2024-12-10 晚上11 22 22" src="https://github.com/user-attachments/assets/2a5403c2-a2cd-4a09-bf65-4a7098b59c4a">
 
-<img width="1679" alt="截圖 2024-12-10 晚上11 40 06" src="https://github.com/user-attachments/assets/fb32002b-f69a-45bb-ba28-ab2dc780f549">
+<img width="1680" alt="截圖 2024-12-10 晚上11 45 56" src="https://github.com/user-attachments/assets/4398ba7f-bfd1-479b-b913-a46368797d82">
 
 <img width="1680" alt="截圖 2024-12-10 晚上11 33 54" src="https://github.com/user-attachments/assets/d5fc131a-2709-4c45-abb5-711e97071601">
